@@ -2,7 +2,7 @@
             width:250px;
             height:250px;">
             
-# NSO host list (قائمة مضيفي NSO) ![](https://img.shields.io/apm/l/vim-mode)
+# ‼️ NSO host list (قائمة مضيفي NSO) ![](https://img.shields.io/apm/l/vim-mode)
 
 ## What's that?
   This repository contains a list of NSO's hosts used to surveil for people. NSO Group claims that its Pegasus spyware is only used to “investigate terrorism and crime” and “leaves no traces whatsoever”. This Forensic Methodology Report shows that neither of these statements are true. This report accompanies the release of the Pegasus Project, a collaborative investigation that involves more than 80 journalists from 17 media organizations in 10 countries coordinated by Forbidden Stories with technical support of "Amnesty International’s Security Lab".
